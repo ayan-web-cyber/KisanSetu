@@ -258,7 +258,7 @@ idempotency.
 ### 1. Clone the repository
 
 ``` bash
-git clone https://github.com/<your-username>/kisansetu.git
+git clone https://github.com/ayan-web-cyber/KisanSetu.git
 cd kisansetu
 ```
 
@@ -270,17 +270,6 @@ npm install
 ```
 
 ### 3. Configure environment variables
-
-Create a `.env` file inside the `backend` directory.
-
-Copy the example:
-
-``` bash
-cp .env.example .env
-```
-
-On Windows, you can also copy `.env.example` manually and rename it to
-`.env`.
 
 Update the required values:
 
