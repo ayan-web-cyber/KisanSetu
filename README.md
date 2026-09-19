@@ -156,7 +156,7 @@ KisanSetu
 │
 └── backend/
     ├── server.js
-    ├── .env.example
+    ├── .env
     ├── package.json
     └── src/
         ├── config/
